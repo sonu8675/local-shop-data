@@ -1,0 +1,7 @@
+---
+section:1st
+image:milk.jpg
+price:1234567890
+amount:80
+details:amul 1 L milk
+---
